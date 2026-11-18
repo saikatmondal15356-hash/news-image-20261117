@@ -6,11 +6,12 @@
 
 One image summing up the world's news of Tuesday 17 November 2026: a
 newspaper front page led by Ukraine's strike on the Kerch Bridge, with
-the fourth tanker hit in the Strait of Hormuz, Trump in Manila and the
-Xi–Trump–Putin summit set for Shenzhen, the Western call to open Gaza's
-crossings, the Houthi advance on Aden, the US AI-chip curbs on China,
-the five-EU-states Rwanda return hub, and the COP31 draft deal — plus a
-ticker of the day's other stories, from Depardieu to the next James Bond.
+a Gulf map of the Iran war, Trump in Manila for the first Quad summit,
+the Western call to open Gaza's crossings, the Houthi advance on Aden,
+the US AI-chip curbs on China, the five-EU-states Rwanda return hub,
+and the COP31 draft deal — 25 stories in all, with a pinned world map
+and a numbered list of the day's other stories, from Depardieu to the
+next James Bond.
 
 ## Run it
 
